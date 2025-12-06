@@ -1,0 +1,14 @@
+artifact_uri: file:///home/miller/dev/Productos_de_Datos/PRE-07-mlflow-tracking-basico-MillerQuintero2001/mlruns/972497322759672232/a9ebbe44641e4a30b618c646f860b5a3/artifacts
+end_time: 1765039517301
+entry_point_name: ''
+experiment_id: '972497322759672232'
+lifecycle_stage: active
+run_id: a9ebbe44641e4a30b618c646f860b5a3
+run_name: knn_e05b9baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765039514765
+status: 3
+tags: []
+user_id: miller
